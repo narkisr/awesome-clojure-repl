@@ -16,6 +16,7 @@
 *Lein plugins*
 
  * [ultra](https://github.com/venantius/ultra) 
+ * [lein-shorthand](https://github.com/palletops/lein-shorthand)
 
 ## Libraries
 
@@ -23,6 +24,7 @@
 
  * [tools.namespace](https://github.com/clojure/tools.namespace)
  * [lucidity](http://docs.caudate.me/lucidity/)
+ * [spyscope](https://github.com/dgrnbrg/spyscope)
 
 ## Environments
 
@@ -30,6 +32,7 @@
 
  * [proto-repl](https://atom.io/packages/proto-repl)
  * [Gorilla REPL](http://gorilla-repl.org/)
+ * [unravel](https://github.com/pesterhazy/unravel)
 
 ## Tools
 
