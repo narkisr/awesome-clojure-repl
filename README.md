@@ -13,7 +13,15 @@
 
 ## Lein 
 
-*Lein plugins and libraries
+*Lein plugins*
+
+ * (ultra)[https://github.com/venantius/ultra] 
+
+## Libraries
+
+*Useful Clojure libraries for the REPL*
+
+ * (tools.namespace)[https://github.com/clojure/tools.namespace]
 
 ## Environments
 
@@ -27,3 +35,11 @@
 
  * (Grenchman)[https://github.com/technomancy/grenchman]
  * 
+
+## Resources
+
+*Artictles and refrences*
+
+ * (reloaded workflow)[http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded]
+
+
