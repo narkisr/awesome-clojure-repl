@@ -25,6 +25,7 @@
  * [tools.namespace](https://github.com/clojure/tools.namespace)
  * [lucidity](http://docs.caudate.me/lucidity/)
  * [spyscope](https://github.com/dgrnbrg/spyscope)
+ * [reloaded.repl](https://github.com/weavejester/reloaded.repl)
 
 ## Environments
 
@@ -36,10 +37,9 @@
 
 ## Tools
 
-*Tools for interacting with the REPL*
+*Tools for interfacing with the REPL*
 
  * [Grenchman](https://github.com/technomancy/grenchman)
- * 
 
 ## Resources
 
