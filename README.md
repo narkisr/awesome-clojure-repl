@@ -40,6 +40,7 @@
 *Tools for interfacing with the REPL*
 
  * [Grenchman](https://github.com/technomancy/grenchman)
+ * [inspectable](https://github.com/jpmonettas/inspectable)
 
 ## Resources
 
