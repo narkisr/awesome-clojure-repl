@@ -17,6 +17,7 @@
 
  * [ultra](https://github.com/venantius/ultra) 
  * [lein-shorthand](https://github.com/palletops/lein-shorthand)
+ * [whidbey](https://github.com/greglook/whidbey)
 
 ## Libraries
 
@@ -26,7 +27,8 @@
  * [lucidity](http://docs.caudate.me/lucidity/)
  * [spyscope](https://github.com/dgrnbrg/spyscope)
  * [reloaded.repl](https://github.com/weavejester/reloaded.repl)
-
+ * [puget](https://github.com/greglook/puget)
+ 
 ## Environments
 
 *REPL environments* 
