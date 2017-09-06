@@ -51,4 +51,6 @@
  * [reloaded workflow](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded)
  * [add color to your Clojure REPL](http://jr0cket.co.uk/2013/08/add-colour-to-your-clojure-repl-with.html.html)
 
+*Talks*
 
+ * [Livecoding the Cloud!](https://www.youtube.com/watch?v=qJXqQATJNTk)
