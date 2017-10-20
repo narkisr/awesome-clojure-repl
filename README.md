@@ -29,6 +29,7 @@
  * [reloaded.repl](https://github.com/weavejester/reloaded.repl)
  * [puget](https://github.com/greglook/puget)
  * [portkey](https://github.com/portkey-cloud/portkey)
+ * [scope-capture](https://github.com/vvvvalvalval/scope-capture)
  
 ## Environments
 
