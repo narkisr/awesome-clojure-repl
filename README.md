@@ -27,9 +27,10 @@
  * [lucidity](http://docs.caudate.me/lucidity/)
  * [spyscope](https://github.com/dgrnbrg/spyscope)
  * [reloaded.repl](https://github.com/weavejester/reloaded.repl)
- * [puget](https://github.com/greglook/puget)
- * [portkey](https://github.com/portkey-cloud/portkey)
- * [scope-capture](https://github.com/vvvvalvalval/scope-capture)
+ * [puget](https://github.com/greglook/puget) - output coloring and pretty printing.
+ * [portkey](https://github.com/portkey-cloud/portkey) 
+ * [scope-capture](https://github.com/vvvvalvalval/scope-capture) - a repl debuger.
+ * [datawalk](https://github.com/eggsyntax/datawalk) - interactive datastructure exploration.
  
 ## Environments
 
