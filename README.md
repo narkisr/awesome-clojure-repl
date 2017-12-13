@@ -31,6 +31,7 @@
  * [portkey](https://github.com/portkey-cloud/portkey) 
  * [scope-capture](https://github.com/vvvvalvalval/scope-capture) - a repl debuger.
  * [datawalk](https://github.com/eggsyntax/datawalk) - interactive datastructure exploration.
+ * [clj-async-profiler](https://github.com/clojure-goes-fast/clj-async-profiler) flame graphs profiling.
  
 ## Environments
 
