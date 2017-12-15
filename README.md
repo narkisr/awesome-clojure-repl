@@ -32,6 +32,7 @@
  * [scope-capture](https://github.com/vvvvalvalval/scope-capture) - a repl debuger.
  * [datawalk](https://github.com/eggsyntax/datawalk) - interactive datastructure exploration.
  * [clj-async-profiler](https://github.com/clojure-goes-fast/clj-async-profiler) flame graphs profiling.
+ * [eftest](https://github.com/weavejester/eftest) Fast and pretty Clojure test runner.
  
 ## Environments
 
