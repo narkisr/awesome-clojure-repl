@@ -8,6 +8,8 @@
 
 - [Tools](#tools)
 
+- [Java REPL](#java repl)
+
 - [Resources](#resources)
 
 
@@ -48,6 +50,12 @@
 
  * [Grenchman](https://github.com/technomancy/grenchman)
  * [inspectable](https://github.com/jpmonettas/inspectable)
+
+## Java REPL
+
+*Tools/libraries for Using REPL with Java*
+
+ * [jnREPL](https://github.com/AustinC/jnREPL)
 
 ## Resources
 
