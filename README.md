@@ -8,7 +8,7 @@
 
 - [Tools](#tools)
 
-- [Java REPL](#java repl)
+- [Java REPL](#java)
 
 - [Resources](#resources)
 
@@ -51,7 +51,7 @@
  * [Grenchman](https://github.com/technomancy/grenchman)
  * [inspectable](https://github.com/jpmonettas/inspectable)
 
-## Java REPL
+## Java
 
 *Tools/libraries for Using REPL with Java*
 
