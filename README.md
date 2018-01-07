@@ -20,6 +20,7 @@
  * [ultra](https://github.com/venantius/ultra) 
  * [lein-shorthand](https://github.com/palletops/lein-shorthand)
  * [whidbey](https://github.com/greglook/whidbey)
+ * [REPL-y](https://github.com/trptcolin/reply)
 
 ## Libraries
 
