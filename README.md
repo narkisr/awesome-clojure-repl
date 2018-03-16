@@ -47,7 +47,7 @@
  * [proto-repl](https://atom.io/packages/proto-repl)
  * [Gorilla REPL](http://gorilla-repl.org/)
  * [unravel](https://github.com/pesterhazy/unravel)
- * [piggieback](https://github.com/clojure-emacs/piggieback) nREPL middleware that enables the use of a ClojureScript REPL on top of an nREPL session.
+ * [piggieback](https://github.com/clojure-emacs/piggieback) is a nREPL middleware that enables the use of a ClojureScript REPL on top of an nREPL session.
 
 
 
