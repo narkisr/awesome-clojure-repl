@@ -38,18 +38,20 @@
  * [eftest](https://github.com/weavejester/eftest) Fast and pretty Clojure test runner.
  * [rebel-readline](https://github.com/bhauman/rebel-readline) a terminal readline library for Clojure Dialects.
 
+## Clojurescript
 
- 
+*Clojurescript repl tools*
+
+ * [weasel](https://github.com/tomjakubowski/weasel) a ClojureScript browser REPL using WebSockets.
+ * [piggieback](https://github.com/clojure-emacs/piggieback) a nREPL middleware that enables the use of a ClojureScript REPL on top of an nREPL session.
+  
 ## Environments
 
 *REPL environments* 
 
  * [proto-repl](https://atom.io/packages/proto-repl)
  * [Gorilla REPL](http://gorilla-repl.org/)
- * [unravel](https://github.com/pesterhazy/unravel)
- * [piggieback](https://github.com/clojure-emacs/piggieback) is a nREPL middleware that enables the use of a ClojureScript REPL on top of an nREPL session.
-
-
+ * [unravel](https://github.com/pesterhazy/unravel) 
 
 ## Tools
 
