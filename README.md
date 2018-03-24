@@ -39,6 +39,7 @@
  * [clj-async-profiler](https://github.com/clojure-goes-fast/clj-async-profiler) flame graphs profiling.
  * [eftest](https://github.com/weavejester/eftest) Fast and pretty Clojure test runner.
  * [rebel-readline](https://github.com/bhauman/rebel-readline) a terminal readline library for Clojure Dialects.
+ * [REPL-based data visualization in the browser](https://github.com/metasoarous/oz).
 
 ## Clojurescript
 
