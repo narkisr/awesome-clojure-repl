@@ -76,6 +76,7 @@
  * [Add color to your Clojure REPL](http://jr0cket.co.uk/2013/08/add-colour-to-your-clojure-repl-with.html.html)
  * [Overview of nrepl](https://juxt.pro/blog/posts/nrepl.html)
  * [Official Clojure REPL guide](https://clojure.org/guides/repl/introduction)
+ * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls).
 
 *Talks*
 
