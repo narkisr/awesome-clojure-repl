@@ -55,6 +55,9 @@
  * [proto-repl](https://atom.io/packages/proto-repl)
  * [Gorilla REPL](http://gorilla-repl.org/)
  * [unravel](https://github.com/pesterhazy/unravel) 
+ * [planck](https://github.com/planck-repl/planck)
+ * [lumo](https://github.com/anmonteiro/lumo) 
+ * [rebel-readline](https://github.com/bhauman/rebel-readline)
 
 ## Tools
 
