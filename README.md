@@ -58,6 +58,7 @@
  * [planck](https://github.com/planck-repl/planck)
  * [lumo](https://github.com/anmonteiro/lumo) 
  * [rebel-readline](https://github.com/bhauman/rebel-readline)
+ * [replete-android](https://github.com/replete-repl/replete-android) ClojureScript REPL Android app.
 
 ## Tools
 
