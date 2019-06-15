@@ -46,6 +46,7 @@
 *Clojurescript repl tools*
 
  * [weasel](https://github.com/tomjakubowski/weasel) a ClojureScript browser REPL using WebSockets.
+ * [Lumo nREPL](https://github.com/djblue/nrepl-cljs) nREPL implemented for Lumo.
  * [piggieback](https://github.com/clojure-emacs/piggieback) a nREPL middleware that enables the use of a ClojureScript REPL on top of an nREPL session.
   
 ## Environments
