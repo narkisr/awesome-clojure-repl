@@ -67,6 +67,7 @@
 
  * [Grenchman](https://github.com/technomancy/grenchman)
  * [inspectable](https://github.com/jpmonettas/inspectable)
+ * [rep](https://github.com/eraserhd/rep) quick launch single shot invocations.
 
 ## Java
 
