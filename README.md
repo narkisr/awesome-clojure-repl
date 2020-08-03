@@ -46,6 +46,7 @@
 ## Visualization 
  * [OZ](https://github.com/metasoarous/oz) REPL-based data visualization in the browser
  * [reveal](https://github.com/vlaaad/reveal) Read Eval Visualize Loop for Clojure. 
+ * [portal](https://github.com/djblue/portal) A clojure tool to navigate through your data.. 
 
 ## Clojurescript
 
