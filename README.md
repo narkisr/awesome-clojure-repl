@@ -4,6 +4,8 @@
  
 - [Libraries](#libraries)
 
+- [Visualizaition](#visualization)
+
 - [Clojurescript](#clojurescript)
 
 - [Environments](#environments) 
@@ -39,7 +41,11 @@
  * [clj-async-profiler](https://github.com/clojure-goes-fast/clj-async-profiler) flame graphs profiling.
  * [eftest](https://github.com/weavejester/eftest) Fast and pretty Clojure test runner.
  * [rebel-readline](https://github.com/bhauman/rebel-readline) a terminal readline library for Clojure Dialects.
- * [REPL-based data visualization in the browser](https://github.com/metasoarous/oz).
+
+
+## Visualization 
+ * [OZ](https://github.com/metasoarous/oz) REPL-based data visualization in the browser
+ * [reveal](https://github.com/vlaaad/reveal) Read Eval Visualize Loop for Clojure. 
 
 ## Clojurescript
 
